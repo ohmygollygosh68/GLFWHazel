@@ -2,8 +2,8 @@
 #include "Application.h"
 
 #include "Hazel/Log.h"
-
-#include <GLFW/glfw3.h>
+#include <glad/glad.h>
+//#include <GLFW/glfw3.h>
 
 namespace Hazel {
 
